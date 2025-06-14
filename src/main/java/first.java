@@ -13,7 +13,7 @@ public class first {
 
 
         try{
-            driver.get("https://www.wikipedia.es");
+            driver.get("https://www.wikipedia.org");
             Thread.sleep(2000);
 
 
